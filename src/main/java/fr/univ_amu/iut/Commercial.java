@@ -12,7 +12,7 @@ public class Commercial extends Employes
         super(num, numSecu, nom, prenom, echelon, naissance, embauche, base, nbHeure);
         this.myChiffreAffaires = chiffreAffaires;
         this.myTauxCommission = txCommission;
-        this.setMySalaireBrut(base + myChiffreAffaires * myTauxCommission);
+        super.setMySalaireBrut(base + this.myChiffreAffaires * this.myTauxCommission);
     }
 
     public void negocierTransaction()

@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d8c24a-044c-4c85-a768-7e9103083380" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Representant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Vendeur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/exo1/Employes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/exo1/Entreprises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/exo1/GestionEntreprises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,96 +23,67 @@
     <session id="906294673">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2008" />
+          <entry key="java" value="3728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2008" />
+          <entry key="JAVA" value="3728" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#247#257#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-              <folding>
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-              <folding>
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="825">
+              <caret line="55" column="97" lean-forward="true" selection-start-line="55" selection-start-column="97" selection-end-line="55" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#223#233#0" expanded="true" />
-                <element signature="e#1979#1980#0" expanded="true" />
-                <element signature="e#2011#2012#0" expanded="true" />
+                <element signature="e#194#204#0" expanded="true" />
+                <element signature="e#1690#1691#0" expanded="true" />
+                <element signature="e#1722#1723#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,11 +92,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+            <state>
+              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
               <folding>
-                <element signature="e#1708#1709#0" expanded="true" />
+                <element signature="e#1876#1877#0" expanded="true" />
+                <element signature="e#1924#1925#0" expanded="true" />
+                <element signature="e#1968#1969#0" expanded="true" />
+                <element signature="e#2004#2005#0" expanded="true" />
+                <element signature="e#1991#1992#0" expanded="true" />
+                <element signature="e#2024#2025#0" expanded="true" />
+                <element signature="e#2068#2069#0" expanded="true" />
+                <element signature="e#2103#2104#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Vendeur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Representant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -147,10 +144,14 @@
         <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/exo1/Employes.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/exo1/GestionEntreprises.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/exo1/Entreprises.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java" />
         <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Vendeur.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Representant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java" />
       </list>
     </option>
   </component>
@@ -172,8 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -212,12 +211,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541675498528" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541686440301" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -263,45 +264,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541669497447</updated>
-      <workItem from="1541669498639" duration="5796000" />
+      <workItem from="1541669498639" duration="6115000" />
+      <workItem from="1541680162439" duration="6593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5796000" />
+    <option name="totallyTimeSpent" value="12708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="46" width="1400" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25780088" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2615156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32932693" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3377404" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976552" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3377404" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903846" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32932693" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,69 +320,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#223#233#0" expanded="true" />
-            <element signature="e#1979#1980#0" expanded="true" />
-            <element signature="e#2011#2012#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Vendeur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Representant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="e#1924#1925#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
+            <element signature="e#2004#2005#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#2024#2025#0" expanded="true" />
+            <element signature="e#2068#2069#0" expanded="true" />
+            <element signature="e#2103#2104#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/GestionEntreprises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#247#257#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Technicien.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Entreprises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="825">
+          <caret line="55" column="97" lean-forward="true" selection-start-line="55" selection-start-column="97" selection-end-line="55" selection-end-column="97" />
           <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Ordinaire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Employes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
-          <folding>
-            <element signature="e#1708#1709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/fr/univ_amu/iut/Commercial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#204#0" expanded="true" />
+            <element signature="e#1690#1691#0" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
           </folding>
         </state>
       </provider>

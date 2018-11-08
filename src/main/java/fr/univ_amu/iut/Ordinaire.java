@@ -8,9 +8,11 @@ public class Ordinaire extends  Employes
     public Ordinaire(int num, String numSecu, String nom, String prenom, int echelon, LocalDate naissance, LocalDate embauche, double base, double nbHeure)
     {
         super(num, numSecu, nom, prenom, echelon, naissance, embauche, base, nbHeure);
-        this.setMySalaireBrut(base * nbHeure + echelon * 100);
+        super.setMySalaireBrut(base * nbHeure + echelon * 100);
 
     }
+
+
 
     public void effectuerTacheOrdinaire()
     {

@@ -27,8 +27,8 @@ public class Employes
         this.myEmbauche = embauche;
         this.myBase = base;
         this.myNbHeure = nbHeure;
-        this.mySalaireBrut = this.myBase * this.myNbHeure;
-        this.mySalaireNet = this.mySalaireBrut * 0.8;
+        setMySalaireBrut(this.myBase * this.myNbHeure);
+        setMySalaireNet(this.mySalaireBrut * 0.8);
     }
 
     @Override
@@ -51,6 +51,27 @@ public class Employes
 
     public void setMySalaireBrut(double mySalaireBrut)
     {
-        this.mySalaireBrut = mySalaireBrut;
+        this.mySalaireBrut = mySalaireBrut + 100;
+        setMySalaireNet(this.mySalaireBrut * 0.8);
+    }
+
+    public void setMySalaireNet(double mySalaireNet)
+    {
+        this.mySalaireNet = mySalaireNet;
+    }
+
+    public double getMySalaireBrut()
+    {
+        return mySalaireBrut;
+    }
+
+    public LocalDate getMyEmbauche()
+    {
+        return myEmbauche;
+    }
+
+    public double getMySalaireNet()
+    {
+        return mySalaireNet;
     }
 }
