@@ -1,4 +1,4 @@
-package fr.univ_amu.iut.exo1;
+package fr.univ_amu.iut;
 
 import java.time.LocalDate;
 import java.time.Month;

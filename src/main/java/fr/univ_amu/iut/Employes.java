@@ -1,4 +1,4 @@
-package fr.univ_amu.iut.exo1;
+package fr.univ_amu.iut;
 
 import java.time.LocalDate;
 
@@ -47,5 +47,10 @@ public class Employes
                 ", mySalaireBrut=" + mySalaireBrut +
                 ", mySalaireNet=" + mySalaireNet +
                 '}' + "\n";
+    }
+
+    public void setMySalaireBrut(double mySalaireBrut)
+    {
+        this.mySalaireBrut = mySalaireBrut;
     }
 }
